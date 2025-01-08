@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Classic Watch",
+      "price": 2000,
+      "image": "https://i.pinimg.com/236x/9d/b3/f2/9db3f2b9c52158b43c060d5c35cd7572.jpg",
+      "description": "A timeless classic watch with a leather strap and analog display."
+    },
+    {
+      "id": 2,
+      "name": "Digital Watch",
+      "price": 4000,
+      "image": "https://i.pinimg.com/236x/ac/1c/c1/ac1cc12d4e8f71567adf33dbbb56f366.jpg",
+      "description": "A modern digital watch with multiple features and water resistance."
+    },
+    {
+      "id": 3,
+      "name": "Luxury Watch",
+      "price": 8000,
+      "image": "https://i.pinimg.com/236x/b4/09/31/b40931f3f4d8859564935c2eb9c31b92.jpg",
+      "description": "A premium luxury watch with a gold-plated design and sapphire crystal glass."
+    },
+    {
+      "id": 4,
+      "name": "Sports Watch",
+      "price": 5000,
+      "image": "https://i.pinimg.com/236x/91/cd/33/91cd3337d4b06c6a4f9f408b84e38419.jpg",
+      "description": "A durable sports watch with GPS tracking and heart rate monitoring."
+    },
+    {
+      "id": 5,
+      "name": "Smart Watch",
+      "price": 7000,
+      "image": "https://i.pinimg.com/236x/91/cd/33/91cd3337d4b06c6a4f9f408b84e38419.jpg",
+      "description": "An advanced smartwatch with fitness tracking and smartphone connectivity."
+    },
+    {
+      "id": 6,
+      "name": "Vintage Watch",
+      "price": 3000,
+      "image": "https://i.pinimg.com/236x/89/76/50/89765085c7227f0e6276690c32d6e86f.jpg",
+      "description": "A retro-styled vintage watch with unique craftsmanship and charm."
+    },
+    {
+      "id": 7,
+      "name": "Diver's Watch",
+      "price": 6000,
+      "image": "https://i.pinimg.com/236x/06/79/a1/0679a169fce0cf9c31d2909e6f5b1eb8.jpg",
+      "description": "A professional diver's watch with water resistance up to 300 meters."
+    },
+    {
+      "id": 8,
+      "name": "Fashion Watch",
+      "price": 2500,
+      "image": "https://i.pinimg.com/236x/a8/6b/17/a86b17cd64cf9d3e2201565f5e590e66.jpg",
+      "description": "A stylish fashion watch perfect for casual or formal occasions."
+    },
+    {
+      "id": 9,
+      "name": "Minimalist Watch",
+      "price": 3500,
+      "image": "https://i.pinimg.com/236x/84/95/bc/8495bc3ef206d3f75daba37e4ae16be7.jpg",
+      "description": "A sleek and minimalist watch with a clean, modern design."
+    },
+    {
+      "id": 10,
+      "name": "Hybrid Watch",
+      "price": 5500,
+      "image": "https://i.pinimg.com/236x/f8/0b/88/f80b88f9f381b420abf285c9731db135.jpg",
+      "description": "A hybrid watch combining analog elegance with smart features."
+    }
+  ]
+  
